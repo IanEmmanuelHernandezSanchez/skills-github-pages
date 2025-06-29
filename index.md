@@ -1,3 +1,3 @@
 ---
-title: ¡Bienvenidos al blog de Ian!
+title: ¡Ian CV!
 ---
